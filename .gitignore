@@ -1,0 +1,23 @@
+# Python files
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vscode/
+
+# Input videos
+*.mp4
+*.MP4
+*.avi
+
+# MediaPipe model
+*.task
+
+# Generated output
+results/
+results_test/
+
+# Participant datasets
+data/
+datasets/
